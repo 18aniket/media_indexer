@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.5)
+project (CMAKE_MEDIA)
+SET(CMAKE_CXX_FLAGS "-std=c++14")
+set(SOURCES main.cpp MediaFactory.cpp Song.cpp Intermediate.cpp Searching.cpp UnorderedMap.cpp Help.cpp DisplayContainer.cpp)
+include_directories(${PROJECT_SOURCE_DIR}/include)
+add_executable(Media ${SOURCES})

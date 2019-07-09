@@ -1,0 +1,3 @@
+/home/kpit/Downloads/Namespace_media/src/build/CMakeFiles/rebuild_cache.dir
+/home/kpit/Downloads/Namespace_media/src/build/CMakeFiles/edit_cache.dir
+/home/kpit/Downloads/Namespace_media/src/build/CMakeFiles/Media.dir
